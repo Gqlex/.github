@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+### Publishing 
+https://medium.com/intuit-engineering/simplify-graphql-api-reusability-at-scale-with-extendgql-open-source-library-fb26a9df2e69
 
-**Here are some ideas to get you started:**
+https://dev.to/intuitdev/extend-graphql-gxpath-and-enhanced-transformer-12bf
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
