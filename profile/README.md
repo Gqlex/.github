@@ -24,4 +24,4 @@ Version 1.0
 4. Enhance select-predicate for none-inclusive
 5. Propose RFC for graphql foundation
 
-**For any issue/question/insight/comment/contribute, please contact us.**
+**Feel free to contact us for any issues, questions, insights, comments, or contributions.**
