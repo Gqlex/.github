@@ -10,3 +10,18 @@ https://medium.com/intuit-engineering/simplify-graphql-api-reusability-at-scale-
 
 https://dev.to/intuitdev/extend-graphql-gxpath-and-enhanced-transformer-12bf
 
+### Support of
+
+Version 1.0
+1. Define first version of gqlexpath
+2. Path-selection over graphql-lang AST, the ability to select GraphQL.lang.node(s) based on gqlexpath over GraphQL client queries/mutation/etc document.
+3. Transform of GraphQL.lang.node(s) on GraphQL client queries/mutation/etc document.
+
+### What Next
+1. Support of TLV (Token-Length-Value) for path-selection, new ability in addition to AST based solution.
+2. Support of TLV (Token-Length-Value) for transform, new ability in addition to AST based solution.
+3. Add filter-predicate to gqlexpath
+4. Enhance select-predicate for none-inclusive
+5. Propose RFC for graphql foundation
+
+**For any issue/question/insight/comment/contribute, please contact us.**
