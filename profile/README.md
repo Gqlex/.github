@@ -10,9 +10,9 @@ https://medium.com/intuit-engineering/simplify-graphql-api-reusability-at-scale-
 
 https://dev.to/intuitdev/extend-graphql-gxpath-and-enhanced-transformer-12bf
 
-### Support of
+### Support of:
 
-Version 1.0
+#### Version 1.0
 1. Define first version of gqlexpath
 2. Path-selection over graphql-lang AST, the ability to select GraphQL.lang.node(s) based on gqlexpath over GraphQL client queries/mutation/etc document.
 3. Transform of GraphQL.lang.node(s) on GraphQL client queries/mutation/etc document.
